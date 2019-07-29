@@ -13,3 +13,5 @@
 Evaluation metric: Macro F1 Score
 
 Public Test Set Size: 40%
+
+Due to some reasons, I had to leave this contest in the middle and didn't try better approaches.
